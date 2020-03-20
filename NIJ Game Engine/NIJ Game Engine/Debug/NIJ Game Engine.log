@@ -1,0 +1,9 @@
+﻿  Animation.cpp
+C:\Users\Owner\Desktop\NIJ Game Engine\NIJ Game Engine\Animation.cpp(16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+  MainCharacter.cpp
+  Timer.cpp
+C:\Users\Owner\Desktop\NIJ Game Engine\NIJ Game Engine\Timer.cpp(14): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  NIJ Game Engine.vcxproj -> C:\Users\Owner\Desktop\NIJ Game Engine\Debug\NIJ Game Engine.exe
